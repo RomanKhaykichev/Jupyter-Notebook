@@ -1,4 +1,4 @@
-## $$ Jupyter-Notebook $$
+## $$Jupyter-Notebook$$
 
 ### Seminar_1 - Оформление ноутбука и закрепление функций и генераторов
 
