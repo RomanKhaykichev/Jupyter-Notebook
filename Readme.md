@@ -1,9 +1,11 @@
 ## $$Jupyter-Notebook$$
 
 ### Seminar_1 - Оформление ноутбука и закрепление функций и генераторов
-> HW1_Task
+> - Sem_1_Task
+> - HW_1_Task
 ### Seminar_2 - Анализ данных с библиотекой Pandas
-> S2_Task
+> - Lec_2_Task
+> - Sem_2_Task
 
 
 
