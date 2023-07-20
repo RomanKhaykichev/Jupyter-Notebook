@@ -6,6 +6,7 @@
 ### Seminar_2 - Анализ данных с библиотекой Pandas
 > - Lec_2_Task
 > - Sem_2_Task
+> - HW_2_Task
 
 
 
