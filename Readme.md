@@ -7,8 +7,10 @@
 > - Lec_2_Task
 > - Sem_2_Task
 > - HW_2_Task
-
-
+### Seminar_3 - Модификация таблиц с Pandas
+> - Lec_3_Task
+> - Sem_3_Task
+> - HW_3_Task
 
 
 
